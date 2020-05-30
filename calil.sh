@@ -17,7 +17,7 @@ genpac \
 	-o full_list.pac
 
 # remove extra info
-sed -e '5d' -i full_list.pac
+sed -e '5d' -e '3d' -i full_list.pac
 cp -f full_list.pac /var/www/html/
 
 git add .
