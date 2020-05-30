@@ -4,7 +4,7 @@ git reset --hard
 git pull
 
 git submodule update --init
-for i in gfwlist genpac
+for i in gfwlist
 do
 	(cd $i;git pull origin master)
 done
@@ -14,8 +14,11 @@ genpac \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
 	--user-rule-from user_rule.txt \
-	-o gfwlist.pac
-# sed -e '5d' -e '3d' -i gfwlist.pac
+	-o full_list.pac
+
+# remove extra info
+sed -e '5d' -e '3d' -i gfwlist.pac
+cp -f full_list.pac /var/www/html/
 
 git add .
 git commit -m "[$(LANG=C date)]auto update"
