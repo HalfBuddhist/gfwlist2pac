@@ -1,0 +1,9 @@
+.ping.pe/
+.olevod.com/
+.vpngate.net/
+.qiangwaikan.com/
+.wikihow.com/
+.gstatic.com/
+.matters.news/
+.google-analytics.com/
+.huanlintalk.com/
