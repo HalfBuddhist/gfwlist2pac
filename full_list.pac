@@ -1,6 +1,10 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2019-11-05 00:21:47
+ */
+
 var proxy = 'SOCKS5 127.0.0.1:8387';
+var rules = [
     [
         [],
         [
@@ -14,6 +18,7 @@ var proxy = 'SOCKS5 127.0.0.1:8387';
             "6-seconds.com",
             "608088.com",
             "654k.net",
+            "6park.com",
             "917rbb.org",
             "917rbb.pw",
             "925fxw.com",
