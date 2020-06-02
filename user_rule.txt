@@ -169,6 +169,7 @@
 .blogspot.sg/
 .redis.io/
 .draw.io/
+.draw.net/
 .5dimes.eu/
 .digitalocean.com/
 .quora.com/
@@ -282,3 +283,5 @@
 .chromium.org/
 .mozilla.org/
 .6park.com/
+.codertw.com/
+.libraries.io/
