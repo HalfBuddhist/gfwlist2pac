@@ -1,6 +1,12 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2019-11-05 00:21:47
+ */
+
+var proxy = 'SOCKS5 127.0.0.1:8387';
+var rules = [
     [
+        [],
         [
             "1001yx.com",
             "1024mx.bid",
@@ -66,6 +72,7 @@
             "cn163.net",
             "cnproxy.com",
             "cocoapods.org",
+            "codertw.com",
             "crazyfeng.com",
             "crunchbase.com",
             "dailymotion.com",
@@ -73,6 +80,7 @@
             "digitalocean.com",
             "docker.com",
             "draw.io",
+            "draw.net",
             "dropbox.com",
             "drugstore.com",
             "duanzhihu.com",
@@ -138,6 +146,7 @@
             "jetbrains.com",
             "kaggle.com",
             "kcjisu.fun",
+            "libraries.io",
             "linkedin.com",
             "linuxsir.org",
             "live.com",
