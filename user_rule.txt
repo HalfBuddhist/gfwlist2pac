@@ -196,7 +196,6 @@
 .privoxy.org/
 .sexvon.com/
 .av6k.com/
-.sourceforge.net/
 .kcjisu.fun/
 .1001yx.com/
 .1024mx.bid/
@@ -285,4 +284,3 @@
 .6park.com/
 .codertw.com/
 .libraries.io/
-.sourceforge.net/
