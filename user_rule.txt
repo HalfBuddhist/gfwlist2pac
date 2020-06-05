@@ -13,7 +13,6 @@
 .strikingly.com/
 .mail.chuangxin.com/
 .office.com/
-.office365.com/
 .sharepoint.com/
 .telegram.org/
 .t.me/
