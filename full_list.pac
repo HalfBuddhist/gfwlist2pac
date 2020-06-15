@@ -38,6 +38,7 @@ var rules = [
             "arxiv.org",
             "asiancapper.com",
             "astrill.com",
+            "autoproxy.org",
             "av6k.com",
             "bbc.com",
             "betandskill.com",
