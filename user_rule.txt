@@ -239,7 +239,6 @@
 .free-lunwen.com/
 .freebets.com/
 .goldencui.org/
-.google.com/
 .greplin.com/
 .hackerrank.com/
 .hd62.com/
@@ -283,4 +282,5 @@
 .6park.com/
 .codertw.com/
 .libraries.io/
-*.xixicats.*/
+\[\w]+:\/\/xixicats.[\w]+\/\
+||autoproxy.org
