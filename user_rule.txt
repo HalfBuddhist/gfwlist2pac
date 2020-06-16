@@ -196,6 +196,7 @@
 .sexvon.com/
 .av6k.com/
 .kcjisu.fun/
+.kcjisu.website/
 .1001yx.com/
 .1024mx.bid/
 .1684.cc/
@@ -282,5 +283,6 @@
 .6park.com/
 .codertw.com/
 .libraries.io/
-\[\w]+:\/\/xixicats.[\w]+\/\
+xixicats.com
+xixicats.pw
 ||autoproxy.org
