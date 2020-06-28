@@ -31,6 +31,7 @@ var rules = [
             "amazon.com",
             "android.com",
             "angularjs.org",
+            "ansible.com",
             "apache.org",
             "apple.com",
             "appspot.com",
