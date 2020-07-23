@@ -75,6 +75,7 @@ var rules = [
             "cnproxy.com",
             "cocoapods.org",
             "codertw.com",
+            "cosx.org",
             "crazyfeng.com",
             "crunchbase.com",
             "dailymotion.com",
