@@ -152,6 +152,7 @@ var rules = [
             "kaggle.com",
             "kcjisu.fun",
             "kcjisu.website",
+            "kknews.cc",
             "libraries.io",
             "linkedin.com",
             "linuxsir.org",
