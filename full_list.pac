@@ -150,6 +150,7 @@ var rules = [
             "image-net.org",
             "instagram.com",
             "inven.co.kr",
+            "it-swarm.dev",
             "jetbrains.com",
             "kaggle.com",
             "kcjisu.fun",
