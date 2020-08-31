@@ -294,3 +294,4 @@ kknews.cc
 adoyle.me
 cloudflare.com
 it-swarm.dev
+bnext.com.tw
