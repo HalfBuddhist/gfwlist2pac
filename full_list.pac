@@ -54,6 +54,7 @@ var rules = [
             "blogspot.com",
             "blogspot.sg",
             "bloomberg.com",
+            "bnext.com.tw",
             "bo1.me",
             "box.com",
             "boxun.com",
