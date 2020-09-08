@@ -187,6 +187,7 @@ var rules = [
             "office365.com",
             "olevod.com",
             "outlook.com",
+            "palantir.com",
             "panoramio.com",
             "pcmag.com",
             "peacehall.com",
