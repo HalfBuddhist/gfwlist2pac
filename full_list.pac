@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-07-19 08:17:45
+ * GFWList Last-Modified: 2020-09-20 02:37:23
  */
 
 var proxy = 'SOCKS5 127.0.0.1:8387';
@@ -674,6 +674,7 @@ var rules = [
             "archive.is",
             "archive.li",
             "archive.org",
+            "archive.ph",
             "archive.today",
             "archiveofourown.com",
             "archiveofourown.org",
@@ -1560,6 +1561,7 @@ var rules = [
             "dtic.mil",
             "dtwang.org",
             "duanzhihu.com",
+            "dubox.com",
             "duck.com",
             "duckdns.org",
             "duckduckgo.com",
@@ -2140,6 +2142,7 @@ var rules = [
             "gitbooks.io",
             "github.com",
             "github.io",
+            "githubassets.com",
             "githubusercontent.com",
             "gizlen.net",
             "gjczz.com",
@@ -2616,6 +2619,7 @@ var rules = [
             "hkcmi.edu",
             "hkcnews.com",
             "hkcoc.com",
+            "hkctu.org.hk",
             "hkdailynews.com.hk",
             "hkday.net",
             "hkdf.org",
@@ -3500,6 +3504,7 @@ var rules = [
             "mswe1.org",
             "mthruf.com",
             "mtw.tl",
+            "mubi.com",
             "muchosucko.com",
             "mullvad.net",
             "multiply.com",
@@ -3829,6 +3834,7 @@ var rules = [
             "openervpn.in",
             "openid.net",
             "openleaks.org",
+            "opensource.google",
             "openvpn.net",
             "openvpn.org",
             "openwebster.com",
@@ -4096,6 +4102,7 @@ var rules = [
             "prozz.net",
             "psblog.name",
             "pscp.tv",
+            "pshvpn.com",
             "psiphon.ca",
             "psiphon3.com",
             "psiphontoday.com",
@@ -4207,6 +4214,7 @@ var rules = [
             "realitykings.com",
             "realraptalk.com",
             "realsexpass.com",
+            "reason.com",
             "rebatesrule.net",
             "recaptcha.net",
             "recordhistory.org",
@@ -4793,6 +4801,7 @@ var rules = [
             "teeniefuck.net",
             "teensinasia.com",
             "telecomspace.com",
+            "telegra.ph",
             "telegram.dog",
             "telegram.me",
             "telegram.org",
@@ -5542,6 +5551,7 @@ var rules = [
             "wingy.site",
             "winning11.com",
             "winwhispers.info",
+            "wionews.com",
             "wire.com",
             "wiredbytes.com",
             "wiredpen.com",
