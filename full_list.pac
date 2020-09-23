@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-09-20 02:37:23
+ * GFWList Last-Modified: 2020-09-23 21:57:31
  */
 
 var proxy = 'SOCKS5 127.0.0.1:8387';
@@ -3597,6 +3597,7 @@ var rules = [
             "nat.moe",
             "natado.com",
             "national-lottery.co.uk",
+            "nationalawakening.org",
             "nationalgeographic.com",
             "nationsonline.org",
             "nationwide.com",
