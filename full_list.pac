@@ -270,6 +270,7 @@ var rules = [
             "xixicats.com",
             "xixicats.pw",
             "yasiv.com",
+            "ycombinator.com",
             "yfrog.com",
             "youtu.be",
             "youtube-nocookie.com",
