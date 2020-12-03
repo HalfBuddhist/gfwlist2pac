@@ -82,6 +82,7 @@ var rules = [
             "crazyfeng.com",
             "crunchbase.com",
             "dailymotion.com",
+            "devops-bordeaux.net",
             "dianliwenmi.com",
             "digitalocean.com",
             "docker.com",
