@@ -298,3 +298,4 @@ bnext.com.tw
 palantir.com
 ycombinator.com
 devops-bordeaux.net
+githubusercontent.com
