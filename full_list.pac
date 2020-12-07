@@ -118,6 +118,7 @@ var rules = [
             "github.com",
             "github.io",
             "githubapp.com",
+            "githubusercontent.com",
             "gitlab.com",
             "gmail.com",
             "golang.org",
