@@ -9,7 +9,7 @@ do
 	(cd $i;git pull origin master)
 done
 
-genpac \
+python -m genpac \
 	--pac-proxy "SOCKS5 127.0.0.1:8387" \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
