@@ -301,3 +301,5 @@ ycombinator.com
 devops-bordeaux.net
 githubusercontent.com
 linuxize.com
+@@*.hiwifi.com/*
+@@hiwifi.com/*
