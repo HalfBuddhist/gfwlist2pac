@@ -170,7 +170,8 @@
 .draw.io/
 .draw.net/
 .5dimes.eu/
-.digitalocean.com/
+digitalocean.com
+cloud.digitalocean.com
 .quora.com/
 .reddit.com/
 .gitbooks.io/
