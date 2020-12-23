@@ -7,7 +7,8 @@ var proxy = 'SOCKS5 127.0.0.1:8387';
 var rules = [
     [
         [
-            "hiwifi.com"
+            "hiwifi.com", 
+            "iqiyi.com"
         ], 
         [
             "1001yx.com", 
