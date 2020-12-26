@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-12-25 22:42:52
+ * GFWList Last-Modified: 2020-12-26 00:34:23
  */
 
 var proxy = 'SOCKS5 127.0.0.1:8387';
@@ -2199,6 +2199,7 @@ var rules = [
             "golang.org", 
             "goldbet.com", 
             "goldbetsports.com", 
+            "golden-ages.org", 
             "goldeneyevault.com", 
             "goldenfrog.com", 
             "goldjizz.com", 
@@ -2684,6 +2685,7 @@ var rules = [
             "hongkongfp.com", 
             "hongmeimei.com", 
             "hongzhi.li", 
+            "honven.xyz", 
             "hootsuite.com", 
             "hoovers.com", 
             "hopedialogue.org", 
@@ -3021,6 +3023,7 @@ var rules = [
             "jobso.tv", 
             "joinbbs.net", 
             "joinmastodon.org", 
+            "joins.com", 
             "journalchretien.net", 
             "journalofdemocracy.org", 
             "joymiihub.com", 
@@ -3190,6 +3193,7 @@ var rules = [
             "lester850.info", 
             "letou.com", 
             "letscorp.net", 
+            "letsencrypt.org", 
             "levyhsu.com", 
             "lflink.com", 
             "lflinkup.com", 
@@ -4683,6 +4687,7 @@ var rules = [
             "stoweboyd.com", 
             "stranabg.com", 
             "straplessdildo.com", 
+            "streamate.com", 
             "streamingthe.net", 
             "streema.com", 
             "streetvoice.com", 
