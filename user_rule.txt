@@ -304,3 +304,5 @@ linuxize.com
 @@*.hiwifi.com/*
 @@hiwifi.com/*
 @@*.iqiyi.com/*
+moodle.org
+anaconda.org
