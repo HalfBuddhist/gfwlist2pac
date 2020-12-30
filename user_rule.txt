@@ -306,3 +306,4 @@ linuxize.com
 @@*.iqiyi.com/*
 moodle.org
 anaconda.org
+pugetsystems.com
