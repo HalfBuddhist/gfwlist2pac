@@ -212,7 +212,6 @@ var rules = [
             "privoxy.org", 
             "pugetsystems.com", 
             "qiangwaikan.com", 
-            "qq.com", 
             "quora.com", 
             "railsinstaller.com", 
             "railsinstaller.org", 
