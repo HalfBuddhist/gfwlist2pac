@@ -183,7 +183,6 @@ cloud.digitalocean.com
 .golang.org/
 .gitlab.com/
 .sexvon.com/
-.lpl.qq.com/
 .zerotier.com/
 .medium.com/
 .pinb888.com/
