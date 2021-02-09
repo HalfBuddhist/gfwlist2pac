@@ -307,3 +307,5 @@ moodle.org
 anaconda.org
 pugetsystems.com
 programmersought.com
+phpxs.com
+mdeditor.tw
