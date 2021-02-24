@@ -213,6 +213,7 @@ var rules = [
             "posterous.com", 
             "privoxy.org", 
             "programmersought.com", 
+            "prometheus.io", 
             "pugetsystems.com", 
             "qiangwaikan.com", 
             "quora.com", 
