@@ -118,6 +118,7 @@ var rules = [
             "gcr.io", 
             "getemoji.com", 
             "ggpht.com", 
+            "gitbook.io", 
             "gitbooks.io", 
             "github.com", 
             "github.io", 
