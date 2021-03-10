@@ -175,6 +175,7 @@ cloud.digitalocean.com
 .quora.com/
 .reddit.com/
 .gitbooks.io/
+gitbook.io
 .elastic.co/
 .docker.com/
 .epochtimes.com/
